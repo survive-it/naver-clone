@@ -1,6 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
-import PublishingLayout from '@/layouts/PublishingIndex.vue'
 import MainLayout from '@/layouts/Main.vue'
 
 const router = createRouter({
@@ -8,16 +7,10 @@ const router = createRouter({
   routes: [
     {
       path: '/',
-      name: 'publishign index',
-      component: () => import('@/publishing/index.vue'),
-      meta: { layout: PublishingLayout }
-    },
-    {
-      path: '/main',
-      name: 'main',
+      name: 'index',
       component: () => import('@/views/Main.vue'),
       meta: { layout: MainLayout }
-    }
+    },
   ]
 })
 
