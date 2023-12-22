@@ -14,4 +14,5 @@ vue와 git연습용
 2. 제가 올린 파일 클론 방법
    https://ittrue.tistory.com/91 참고하셔도 좋고 어려우시다면
    ![git clone](https://github.com/survive-it/PracticeGit/assets/72345833/e7039f41-aa09-4b67-91c0-2702d0bb9745)
-   위 방법대로하시면 본인피시에서 사용가능합니다.
+   클릭후 받으려고하고자 하는 파일명 찾아서 누르시면되세요
+   위 방법대로하시면 깃에있는 파일을 본인pc에서 사용가능합니다.
