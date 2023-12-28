@@ -1,3 +1,3 @@
 <template>
-  <div>naver페이지dsd</div>
+  <div>naver페이지dssd</div>
 </template>
