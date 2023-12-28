@@ -1,3 +1,3 @@
 <template>
-  <div>naver페이지dssd</div>
+  <div>naver클론코딩입니다.</div>
 </template>
