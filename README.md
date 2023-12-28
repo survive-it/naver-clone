@@ -18,25 +18,25 @@ vue와 git연습용
    위 방법대로하시면 깃에있는 파일을 본인pc에서 사용가능합니다.
 
 
-깃 브랜치 사용할 방법 
-main : 최종병합할 브랜치
-develop : 기타 여러브랜치를 합쳐서 이 브랜치에 병합
-기타 여러브랜치 : 팀원들이 각각 개발할 브랜치
+깃 브랜치 사용할 방법 <br>
+main : 최종병합할 브랜치 <br>
+develop : 기타 여러브랜치를 합쳐서 이 브랜치에 병합 <br>
+기타 여러브랜치 : 팀원들이 각각 개발할 브랜치 <br> <br>
 
 
-git 명령어 
-현재 깃 상태확인 : git status
-git 저장소 생성하기 : git init
-현재 위치에 깃 복제 : git clone [https: ~~~~ ]
-현재 브랜치 확인 : git branch
-브랜치 생성 : git branch 브랜치이름
-원하는 브랜치로 이동 : git checkout 브랜치이름
-원하는 브랜치 제거 : git branch -d 브랜치이름
-저장소 코드추가 : git add
-커밋(나의 저장소에 저장) : git commit -m "message"  (message 부분은 수정내용이나 추가된 코드내용 적어주면됩니다)
-푸쉬(원격저장소로 보내기) : git push origin 브랜치명
-풀(나의 저장소로 가져오기) : git pull origin 브랜치명
-현재 브랜치에 다른브랜치 수정사항 합치기 : git merge 다른브랜치이름
+git 명령어  <br>
+현재 깃 상태확인 : git status <br>
+git 저장소 생성하기 : git init <br>
+현재 위치에 깃 복제 : git clone [https: ~~~~ ] <br>
+현재 브랜치 확인 : git branch <br>
+브랜치 생성 : git branch 브랜치이름 <br>
+원하는 브랜치로 이동 : git checkout 브랜치이름 <br>
+원하는 브랜치 제거 : git branch -d 브랜치이름 <br>
+저장소 코드추가 : git add <br>
+커밋(나의 저장소에 저장) : git commit -m "message"  (message 부분은 수정내용이나 추가된 코드내용 적어주면됩니다) <br>
+푸쉬(원격저장소로 보내기) : git push origin 브랜치명 <br>
+풀(나의 저장소로 가져오기) : git pull origin 브랜치명 <br>
+현재 브랜치에 다른브랜치 수정사항 합치기 : git merge 다른브랜치이름 <br>
 
 
 
