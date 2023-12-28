@@ -27,7 +27,7 @@ develop : 기타 여러브랜치를 합쳐서 이 브랜치에 병합 <br>
 git 명령어  <br>
 현재 깃 상태확인 : git status <br>
 git 저장소 생성하기 : git init <br>
-현재 위치에 깃 복제 : git clone [https: ~~~~ ] <br>
+현재 위치에 깃 복제 : git clone https:~~~~  <br>
 현재 브랜치 확인 : git branch <br>
 브랜치 생성 : git branch 브랜치이름 <br>
 원하는 브랜치로 이동 : git checkout 브랜치이름 <br>
