@@ -3,5 +3,23 @@
 @import "_svgSet";
 @import "_mixin";
 
-body { margin: 0; padding: 0; }
+* {
+    box-sizing: border-box;
+}
 
+body {
+    margin: 0; padding: 0;
+}
+
+.wrap{
+    min-width: 1340px;
+}
+
+.blind {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    clip-path: polygon(0 0, 0 0, 0 0);
+}

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="wrap">
     <!-- 메인 레이아웃 -->
     <Header />
     <main>
