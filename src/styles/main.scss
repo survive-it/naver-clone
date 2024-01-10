@@ -1,0 +1,21 @@
+@charset 'utf-8';
+@import '_variable';
+@import '_mixin';
+@import '_svgSet';
+
+
+.container{
+    display: flex;
+    width: 1280px;
+    height: 2368px;
+    margin: 0 auto;
+}
+
+.container-left{
+    width: 830px;
+}
+
+.container-right{
+    width: 420px;
+    margin-left: 30px;
+}
